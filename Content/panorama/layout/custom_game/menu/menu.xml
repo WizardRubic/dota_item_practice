@@ -1,0 +1,18 @@
+<root>
+	<styles>
+		<include src="file://{resources}/styles/menu/menu.css" />
+	</styles>
+
+	<scripts>
+		<include src="file://{resources}/scripts/menu/menu.js" />
+	</scripts>
+
+	<snippets>
+
+	</snippets>
+
+	<!-- <Panel class="Container"> -->
+	<Panel>
+
+	</Panel>
+</root>
